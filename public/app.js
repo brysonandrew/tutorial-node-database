@@ -7,7 +7,7 @@ CreateUser.addEventListener('submit', (e) => {
   post('/createUser', { username, password })
 });
 
-function post (path, data) {
+function post(path, data) {
   return window.fetch(path, {
     method: 'POST',
     headers: {
@@ -15,5 +15,6 @@ function post (path, data) {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify(data)
-  })
+  }).then(console.log)
+    .catch(console.log)
 }
