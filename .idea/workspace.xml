@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57c8d7f4-fea0-4cc7-9370-ba5185d8bd0d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/20181210190236_create_user_table.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/store.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,22 +19,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -50,8 +37,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="272">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -59,8 +46,8 @@
       <file leaf-file-name="store.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/store.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -69,7 +56,16 @@
         <entry file="file://$PROJECT_DIR$/knexfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20181210232431_create_user_table.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/migrations/20181210232431_create_user_table.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -105,8 +101,11 @@
         <option value="$PROJECT_DIR$/migrations/20181210200211_encrypt_user_password.js" />
         <option value="$PROJECT_DIR$/migrations/20181210201022_encrypt_user_password.js" />
         <option value="$PROJECT_DIR$/migrations/20181210202354_encrypt_user_password.js" />
-        <option value="$PROJECT_DIR$/public/app.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/app.js" />
+        <option value="$PROJECT_DIR$/migrations/20181210224558_create_user_table.js" />
+        <option value="$PROJECT_DIR$/migrations/20181210225758_create_user_table.js" />
+        <option value="$PROJECT_DIR$/migrations/20181210232431_create_user_table.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/store.js" />
       </list>
@@ -156,6 +155,11 @@
             <path>
               <item name="tutorial-node-database" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorial-node-database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tutorial-node-database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tutorial-node-database" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -201,12 +205,12 @@
       <updated>1544463502335</updated>
       <workItem from="1544463503866" duration="2867000" />
       <workItem from="1544468940279" duration="29000" />
-      <workItem from="1544468983656" duration="3780000" />
+      <workItem from="1544468983656" duration="6082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6676000" />
+    <option name="totallyTimeSpent" value="8978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="30" width="1506" height="947" extended-state="0" />
@@ -392,41 +396,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/app.js">
+    <entry file="file://$PROJECT_DIR$/migrations/20181210224558_create_user_table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/migrations/20181210231107_create_user_table.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/20181210225758_create_user_table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/20181210232431_create_user_table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="272">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/knexfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
